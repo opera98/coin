@@ -1,2 +1,3 @@
-# coin
+tz# coin
 btc
+bt
